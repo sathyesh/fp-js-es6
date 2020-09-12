@@ -12,9 +12,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/sathyesh/fp-js-es6/issues"
   },
-  "homepage": "https://github.com/sathyesh/fp-js-es6#readme"
+  "homepage": "https://github.com/sathyesh/fp-js-es6#readme",
+  "dependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.5"
+  }
 }
